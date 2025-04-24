@@ -13,7 +13,6 @@ const config: Config = {
       fontFamily: {
         sans: ["var(--font-nunito-sans)"],
       },
-      colors: {},
     },
   },
   plugins: [],
